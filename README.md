@@ -1,2 +1,3 @@
 # demo-repo
-first git entry
+
+.first git entry
